@@ -20,7 +20,7 @@ Interstellar is completely open-source so you can deploy it by forking or deploy
 
 ### Project Activity
 
-![Alt](https://repobeats.axiom.co/api/embed/cb9f30f479ea962536e2507e469a04718173bf3c.svg "Repobeats analytics image")
+![Alt](https://repobeats.axiom.co/api/embed/a29377d716158c927de96a4c70c0efc0669797c1.svg "Repobeats analytics image")
  
 ### Contact Us
 
